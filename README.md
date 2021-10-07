@@ -34,9 +34,9 @@ Operating System Supported
 ✅ VLESS Websocket TLS & NON-TLS <br>
 ✅ VLESS XTLS Direct & XTLS Splice <br>
 ✅ Trojan GFW <br>
+<br>
 </b>
-
-<b>![image](https://user-images.githubusercontent.com/86051875/136360495-12b2d268-01ec-44de-b46b-b822fc151095.png)
-</b>
-</b>
+<h3 align="center">
+[image](https://user-images.githubusercontent.com/86051875/136360495-12b2d268-01ec-44de-b46b-b822fc151095.png)
+</h3>
 
