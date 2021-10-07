@@ -37,6 +37,7 @@ Operating System Supported
 <br>
 </b>
 <h3 align="center">
-[image](https://user-images.githubusercontent.com/86051875/136360495-12b2d268-01ec-44de-b46b-b822fc151095.png)
+![image](https://user-images.githubusercontent.com/86051875/136360912-9ab7a17d-fac3-45be-93ca-4c13b03ed9d8.png)
+
 </h3>
 
