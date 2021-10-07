@@ -30,8 +30,8 @@ Operating System Supported
 
 ## ⏩ Autoscripts Info ⏪
 <b>
-✅ VMESS Websocket TLS & NON-TLS
-✅ VLESS Websocket TLS & NON-TLS
-✅ VLESS XTLS Direct & XTLS Splice
-✅ Trojan GFW
+✅ VMESS Websocket TLS & NON-TLS <br>
+✅ VLESS Websocket TLS & NON-TLS <br>
+✅ VLESS XTLS Direct & XTLS Splice <br>
+✅ Trojan GFW <br>
 </b>
