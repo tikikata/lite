@@ -26,7 +26,5 @@
 <img src="https://user-images.githubusercontent.com/86051875/136398069-e571572d-bf71-486e-928a-4df455591b48.png" width="400" title="Autoscript-Lite">
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86051875/136399236-929eb1eb-9d89-4a73-b007-38d1d6a97411.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/86051875/136400850-a25dc52c-1a2c-4e98-a159-85eb1f162d95.png" width="400" title="Autoscript-Lite">
 </p>
-
-
