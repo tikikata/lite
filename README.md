@@ -36,5 +36,10 @@ Operating System Supported
 ✅ Trojan GFW <br>
 <br>
 </b>
+  
+<p align="center">
+![image](https://user-images.githubusercontent.com/86051875/136361787-e5b5afd1-fb42-4234-a550-9f4edb69e025.png)
+
+</p>
 
 
