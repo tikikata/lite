@@ -36,6 +36,6 @@ Operating System Supported
 ✅ Trojan GFW <br>
 </b>
 ## ➕ DONATION ➕
-<b>https://media.discordapp.net/attachments/864703742635671562/895606680216281148/autos.png?width=283&height=588</b>
+<b></b>
 </b>
 
