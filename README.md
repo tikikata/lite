@@ -28,3 +28,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/86051875/136400850-a25dc52c-1a2c-4e98-a159-85eb1f162d95.png" width="1480" title="Autoscript-Lite">
 </p>
+  
+## ⏩ INSTALLATION GUIDE ⏪
+<b>
+INSTALLATION LINK AKAN DIBERIKAN KEMUDIAN SETELAH SCRIPT STABIL<br>
+<br>
+</b>
