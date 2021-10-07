@@ -4,15 +4,15 @@
 🔱 RexNotRed Autoscripts-Lite Edition 🔱
 <h2><hr>
 
-## ⏩ Autoscripts Info ⏪
+## ⏩ AUTOSCRIPTS-LITE DETAILS ⏪
 <b>
-✅ VMESS Websocket TLS & NON-TLS <br>
-✅ VLESS Websocket TLS & NON-TLS <br>
-✅ VLESS XTLS Direct & XTLS Splice <br>
+✅ VMESS WEBSOCKET TLS & NON-TLS <br>
+✅ VLESS WEBSOCKET TLS & NON-TLS <br>
+✅ VLESS XTLS DIRECT & XTLS SPLICE <br>
 ✅ TROJAN GFW <br>
-✅ Backup & Restore Features <br>
-✅ Change VPN Port <br>
-✅ VLESS XTLS Direct & Splice Using Same Port<br>
+✅ BACKUP & RESTORE FEATURES <br>
+✅ CHANGE VPN PORT <br>
+✅ VLESS XTLS DIRECT & SPLICE USING SAME PORT<br>
 <br>
 </b>
 <p align="center">
