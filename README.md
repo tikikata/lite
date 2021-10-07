@@ -10,8 +10,9 @@
 ✅ VLESS Websocket TLS & NON-TLS <br>
 ✅ VLESS XTLS Direct & XTLS Splice <br>
 ✅ TROJAN GFW <br>
-✅ BACKUP & RESTORE FEATURE<br>
-✅ CHANGE VPN PORT<br>
+✅ Backup & Restore Features <br>
+✅ Change VPN Port <br>
+✅ VLESS XTLS Direct & Splice Using Same Port<br>
 <br>
 </b>
 <p align="center">
