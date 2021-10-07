@@ -10,7 +10,8 @@
 ✅ VLESS Websocket TLS & NON-TLS <br>
 ✅ VLESS XTLS Direct & XTLS Splice <br>
 ✅ TROJAN GFW <br>
-✅ TROJAN GO (BETA)<br>
+✅ BACKUP & RESTORE FEATURE<br>
+✅ CHANGE VPN PORT<br>
 <br>
 </b>
 <p align="center">
@@ -19,7 +20,8 @@
 
 ## ⏩ PROJECT ON-GOING ⏪
 <b>
-✅ TROJAN GO (BETA TEST)<br>
+✅ TROJAN-GO (BETA TEST)<br>
+✅ BACKUP & RESTORE FOR TROJAN-GO<br>
 <br>
 </b>
 <p align="center">
@@ -28,11 +30,3 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/86051875/136400850-a25dc52c-1a2c-4e98-a159-85eb1f162d95.png" width="1480" title="Autoscript-Lite">
 </p>
-  
-## ⏩ INSTALLATION GUIDE ⏪
-<b>
-**INSTALLATION LINK AKAN DIBERIKAN KEMUDIAN SETELAH SCRIPT STABIL<br>
-**AUTOSCRIPT INI ADALAH PERCUMA & DIHARAPKAN TIADA YANG MENJUAL <br>
-**AUTOSCRIPT INI ADALAH LITE VERSION DIMANA HANYA DISEDIAKAN PROTOCOL VMESS WS :: VLESS WS :: TROJAN-GFW :: XRAY VLESS DIRECT & SPLICE SAHAJA <br>
-<br>
-</b>
