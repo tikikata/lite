@@ -34,3 +34,9 @@
 INSTALLATION LINK AKAN DIBERIKAN KEMUDIAN SETELAH SCRIPT STABIL<br>
 <br>
 </b>
+  
+## ⏩ CONTACT ⏪
+<b>
+TELEGRAM :: @whoiswho<br>
+<br>
+</b>
