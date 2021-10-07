@@ -35,7 +35,8 @@ Operating System Supported
 ✅ VLESS XTLS Direct & XTLS Splice <br>
 ✅ Trojan GFW <br>
 </b>
-## ➕ DONATION ➕
-<b></b>
+
+<b>![image](https://user-images.githubusercontent.com/86051875/136360495-12b2d268-01ec-44de-b46b-b822fc151095.png)
+</b>
 </b>
 
