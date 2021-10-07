@@ -37,7 +37,7 @@ Operating System Supported
 <br>
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86051875/136361787-e5b5afd1-fb42-4234-a550-9f4edb69e025.png" width="445" title="hover text">
+<img src="https://user-images.githubusercontent.com/86051875/136363437-3cef873a-565d-4cee-aed7-bbde4a85397f.png" width="445" title="Autoscript-Lite">
 </p>
 
 
