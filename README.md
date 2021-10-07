@@ -10,6 +10,7 @@
 ✅ VLESS Websocket TLS & NON-TLS <br>
 ✅ VLESS XTLS Direct & XTLS Splice <br>
 ✅ TROJAN GFW <br>
+✅ TROJAN GO <br>
 <br>
 </b>
 <p align="center">
