@@ -19,7 +19,7 @@
 
 ## ⏩ PROJECT ON-GOING ⏪
 <b>
-TROJAN GO (BETA TEST)<br>
+✅ TROJAN GO (BETA TEST)<br>
 <br>
 </b>
 <p align="center">
