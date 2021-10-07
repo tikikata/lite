@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/86051875/136363437-3cef873a-565d-4cee-aed7-bbde4a85397f.png" width="400" title="Autoscript-Lite">
 </p>
 
-## ⏩ PROJECT ON-GOING ⏪
+## ⏩ ON-GOING PROJECT ⏪
 <b>
 ✅ TROJAN-GO (BETA TEST)<br>
 ✅ BACKUP & RESTORE FOR TROJAN-GO<br>
