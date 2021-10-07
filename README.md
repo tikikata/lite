@@ -15,7 +15,10 @@
 </b>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/86051875/136363437-3cef873a-565d-4cee-aed7-bbde4a85397f.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/86051875/136398069-e571572d-bf71-486e-928a-4df455591b48.png" width="400" title="Autoscript-Lite">
 </p>
+  
+
 
 
 
