@@ -21,15 +21,10 @@
 <img src="https://user-images.githubusercontent.com/86051875/136363437-3cef873a-565d-4cee-aed7-bbde4a85397f.png" width="400" title="Autoscript-Lite">
 </p>
 
-## ⏩ ON-GOING PROJECT ⏪
+## ⏩ HOW TO INSTALL ⏪
 <b>
-✅ TROJAN-GO (BETA TEST)<br>
-✅ BACKUP & RESTORE FOR TROJAN-GO<br>
+>> INSTALLATION GUIDE AKAN DIBERIKAN KEMUDIAN<br>
+>> NAK GUNA AUTOSCRIPT-LITE ? WAJIB REGISTER IP SEBELUM DAPAT INSTALL AUTOSCRIPT LITE<br>
+>> LINK UNTUK REGISTER AKAN DIBERIKAN KEMUDIAN <br>
 <br>
 </b>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/86051875/136398069-e571572d-bf71-486e-928a-4df455591b48.png" width="400" title="Autoscript-Lite">
-</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/86051875/136400850-a25dc52c-1a2c-4e98-a159-85eb1f162d95.png" width="1480" title="Autoscript-Lite">
-</p>
