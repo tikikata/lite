@@ -23,7 +23,7 @@
 <b>
 ♦️ NAK GUNA AUTOSCRIPT-LITE ? WAJIB REGISTER IP SEBELUM DAPAT INSTALL AUTOSCRIPT LITE<br>
 ♦️ KENAPA PERLU REGISTER IP ? SEBAB AKAN ADA YANG AMBIL KESEMPATAN UNTUK JUAL ! <br>
-♦️ SEND IP DI TELEGRAM SAYA -> t.me/whosiswhos atau @whosiswho <br>
+♦️ SEND IP DI TELEGRAM SAYA -> t.me/whosiswhos atau @whosiswhos <br>
 <br>
 </b>
   
