@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🔱 RexNotRed Autoscripts-Lite Edition 🔱
+🔱 RexNotRed Autoscripts-Lite Edition (FREE !)🔱
 <h2><hr>
 
 ## ⏩ AUTOSCRIPTS-LITE DETAILS ⏪
@@ -21,9 +21,17 @@
 
 ## ⏩ HOW TO INSTALL ⏪
 <b>
-♦️ INSTALLATION GUIDE AKAN DIBERIKAN KEMUDIAN<br>
 ♦️ NAK GUNA AUTOSCRIPT-LITE ? WAJIB REGISTER IP SEBELUM DAPAT INSTALL AUTOSCRIPT LITE<br>
 ♦️ KENAPA PERLU REGISTER IP ? SEBAB AKAN ADA YANG AMBIL KESEMPATAN UNTUK JUAL ! <br>
-♦️ LINK UNTUK REGISTER AKAN DIBERIKAN KEMUDIAN 😘<br>
+♦️ SEND IP DI TELEGRAM SAYA -> t.me/whosiswhos atau @whosiswho <br>
+<br>
+</b>
+  
+## ⏩ ON-GOING NEXT PROJECT ⏪
+<b>
+♦️WIREGUARD<br>
+♦️TROJAN-GO<br>
+
+♦️P/S :: UNTUK VPN ATAU SSH SAYA TAK AKAN MASUKKAN MEMANDANGKAN SCRIPT INI HANYA LITE VERSION<br>
 <br>
 </b>
